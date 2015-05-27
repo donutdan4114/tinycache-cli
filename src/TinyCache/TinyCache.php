@@ -124,7 +124,7 @@ class TinyCache {
     }
 
     // Check to ensure that we have some cache_value we are sending.
-    if (!isset($data->cache_value)) {
+    if (!isset($data->cache_value) && !$return_data) {
       $this->cmd->error(new \Exception('Cache value must be set.'));
     }
 

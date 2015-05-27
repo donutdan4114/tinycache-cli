@@ -1,0 +1,9 @@
+{
+  "directories": [
+    "src/",
+    "vendor/"
+  ],
+  "main": "run.php",
+  "output": "tinycache.phar",
+  "stub": true
+}

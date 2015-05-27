@@ -4,6 +4,6 @@
     "vendor/"
   ],
   "main": "run.php",
-  "output": "tinycache.phar",
+  "output": "bin/tinycache.phar",
   "stub": true
 }

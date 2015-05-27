@@ -25,9 +25,6 @@ class TinyCache {
     $cmd->option()
       ->referToAs('Cache Key')
       ->describedAs('Cache key to interact with.');
-    $cmd->option('k')
-      ->aka('key')
-      ->describedAs('Cache key to interact with.');
     $cmd->option('d')
       ->aka('data')
       ->describedAs('Data to send as params.');

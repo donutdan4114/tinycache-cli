@@ -1,0 +1,18 @@
+{
+  "name": "donutdan4114/tinycache-cli",
+  "description": "A simple CLI for use with the tinycache.io service.",
+  "require": {
+    "nategood/commando": "~0.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Daniel Pepin",
+      "email": "donutdan4114@gmail.com"
+    }
+  ]
+}

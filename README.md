@@ -2,11 +2,7 @@
 A simple CLI for interacting with the [tinycache.io](https://tinycache.io) API.
 
 ## Setup
-The application can be downloaded from /bin/tinycache.phar.  
-```
-> curl -O https://github.com/donutdan4114/tinycache-cli/blob/master/bin/tinycache.phar?raw=true
-> mv ./tinycache.phar /usr/local/bin/tinycache
-```  
+The application can be downloaded from `/bin/tinycache.phar`. [Click here to download](https://github.com/donutdan4114/tinycache-cli/blob/master/bin/tinycache.phar?raw=true).  
 You can also download the application and make modifications, and rebuild using [Box](http://box-project.org).
 
 ## Usage
